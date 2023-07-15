@@ -1,0 +1,2 @@
+D:\C++\Circuit Emulation Project\Debug\Circuit Emulation Project.exe
+D:\C++\Circuit Emulation Project\Debug\Circuit Emulation Project.pdb

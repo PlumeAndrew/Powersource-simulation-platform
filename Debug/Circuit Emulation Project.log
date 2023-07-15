@@ -1,0 +1,4 @@
+﻿  2020.11.4.cpp
+2020.11.4.obj : error LNK2019: 无法解析的外部符号 "void __cdecl ExittoPre(void)" (?ExittoPre@@YAXXZ)，函数 "void __cdecl CCCS(void)" (?CCCS@@YAXXZ) 中引用了该符号
+2020.11.4.obj : error LNK2019: 无法解析的外部符号 "void __cdecl ModParameter(void)" (?ModParameter@@YAXXZ)，函数 "void __cdecl CCCS(void)" (?CCCS@@YAXXZ) 中引用了该符号
+D:\C++\Circuit Emulation Project\Debug\Circuit Emulation Project.exe : fatal error LNK1120: 2 个无法解析的外部命令
